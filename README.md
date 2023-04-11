@@ -1,4 +1,4 @@
-# Helmet detection with YOLO and Flask
+# Helmet detection with YOLOV5 and Flask
 
 ## Instruction
 - Replace best.pt with your model
