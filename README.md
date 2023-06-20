@@ -10,6 +10,6 @@ pip install -r requirements.txt
 ```powershell
 python app.py
 ```
-- Result with 2 classes: helmet & no_helmet
+## Result
 
 ![alt text](https://github.com/npk7264/Helmet_Detection_with_YOLO/blob/main/static/results/helmet.jpg)
