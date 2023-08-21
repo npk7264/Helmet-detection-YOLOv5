@@ -34,6 +34,3 @@ def predict():
     cv2.imwrite(filename, result.render()[0])
     # Render page with image
     return render_template("index.html", image = filename)
-
-# Start server
-app.run()
