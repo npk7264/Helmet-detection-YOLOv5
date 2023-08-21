@@ -1,10 +1,12 @@
 # pip install -r requirements.txt
 
-torch>=1.8.0
-torchvision>=0.9.0
-numpy>=1.18.5
-opencv-python>=4.1.2
+torch
+torchvision
+numpy
+opencv-python
 flask
 flask-cors
 gunicorn
 pandas
+ultralytics
+matplotlib
